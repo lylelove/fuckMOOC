@@ -1,5 +1,5 @@
 # 中国大学MOOC自动互评自评——基于selenium库
-
+![[object Object]](https://socialify.git.ci/lylelove/fuckMOOC/image?description=1&language=1&name=1&owner=1&theme=Dark)
 ### 使用
 
 1.下载fuckMOOC.py
