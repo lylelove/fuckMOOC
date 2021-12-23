@@ -48,8 +48,6 @@ e.查看是否安装成功
 
 课程地址例如：https://www.icourse163.org/course/SDCJDX-1449597161
 
-课程单元数填写本课程一共多少单元。
-
 #### 4.运行等待
 
 右键fuckMOOC.py文件，选择打开方式，选择python3，打开。
